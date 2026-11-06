@@ -126,7 +126,11 @@ Open your browser to:
 
 ---
 
-## ?? Examination & Viva Voce Ready
+## ?? Examination & Viva Voice Ready
 Refer to the comprehensive guides in `docs/`:
 - `docs/architecture_and_design.md`: Explains the math (Z-score, PAR, KMeans distance, Mass-energy balance).
 - `docs/viva_questions_and_guide.md`: Contains 30+ commonly asked viva questions on Apache Spark, Big Data architectures, ML anomaly detection, and data warehousing.
+
+---
+
+## Live Demo: https://energy-spark-analytics-u2mk3m47h8txtcackyvjzm.streamlit.app/
