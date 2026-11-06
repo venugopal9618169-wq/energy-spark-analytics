@@ -118,10 +118,6 @@ st.sidebar.caption("Smart Grid Big Data Anomaly Detection Pipeline")
 
 st.sidebar.markdown('''
 <div style="background-color: #161B22; border-radius: 8px; padding: 12px; margin-bottom: 14px; border: 1px solid #30363D;">
-    <div style="font-size: 11px; text-transform: uppercase; color: #8B949E; letter-spacing: 0.5px; margin-bottom: 2px;">Candidate</div>
-    <div style="font-size: 13px; font-weight: 700; color: #58A6FF;">YALAMANCHI VENU GOPAL</div>
-    <div style="font-size: 11px; text-transform: uppercase; color: #8B949E; letter-spacing: 0.5px; margin-top: 6px; margin-bottom: 2px;">Supervisor / Guide</div>
-    <div style="font-size: 13px; font-weight: 600; color: #F0F2F6;">Ms. G. Hema Sri</div>
     <div style="font-size: 11px; text-transform: uppercase; color: #8B949E; letter-spacing: 0.5px; margin-top: 6px; margin-bottom: 2px;">Domain Track</div>
     <div style="font-size: 12px; color: #7EE787;">Big Data Analytics, DWH & Viz</div>
 </div>
