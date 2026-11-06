@@ -189,10 +189,6 @@ st.title("⚡ Energy-Consumption Big-Data Analytics")
 st.markdown("### Design and Development of a Working Prototype for Energy-consumption big-data analytics Using A distributed Spark analytics pipeline")
 
 meta_c1, meta_c2, meta_c3 = st.columns([1.2, 1.2, 1.6])
-with meta_c1:
-    st.markdown("**👤 Candidate:** `YALAMANCHI VENU GOPAL`", unsafe_allow_html=True)
-with meta_c2:
-    st.markdown("**👩‍🏫 Guide:** `Ms. G. Hema Sri`", unsafe_allow_html=True)
 with meta_c3:
     st.markdown("**🏛️ Domain:** `Big Data Analytics, DWH & Viz`", unsafe_allow_html=True)
 
@@ -549,9 +545,6 @@ with tabs[5]:
         <table style="width:100%; border-collapse: collapse; font-size: 14px;">
             <tr>
                 <td style="padding: 6px 12px; color: #8B949E; width: 22%;"><b>Candidate Name:</b></td>
-                <td style="padding: 6px 12px; color: #58A6FF; font-weight: 700;">YALAMANCHI VENU GOPAL</td>
-                <td style="padding: 6px 12px; color: #8B949E; width: 22%;"><b>Faculty Guide:</b></td>
-                <td style="padding: 6px 12px; color: #F0F2F6; font-weight: 600;">Ms. G. Hema Sri</td>
             </tr>
             <tr>
                 <td style="padding: 6px 12px; color: #8B949E;"><b>Domain Track:</b></td>
