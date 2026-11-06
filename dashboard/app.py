@@ -202,7 +202,6 @@ tabs = st.tabs([
     "📈 Smart Meter Deep-Dive",
     "⚡ Feeder Balance & Theft Locator",
     "🎮 Live Stream Injector",
-    "🎓 Academic Viva & Architecture"
 ])
 
 # ----------------- TAB 1: GRID OVERVIEW -----------------
